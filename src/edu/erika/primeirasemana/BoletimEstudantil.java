@@ -1,3 +1,4 @@
+package edu.erika.primeirasemana;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 4;

@@ -1,3 +1,4 @@
+package edu.erika.segundasemana;
 public class MinhaClass {
     public static void main(String[] args) {
 
