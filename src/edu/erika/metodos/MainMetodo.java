@@ -22,6 +22,10 @@ public class MainMetodo {
         MensagemMetodo.obterMensagem(1);
 
         //Emprestimo
+        System.out.println("Ecercicio Empréstimo");
+        EmprestimoMetodo.calcular(1000, EmprestimoMetodo.getDuasParcelas());
+        EmprestimoMetodo.calcular(1000, EmprestimoMetodo.getTresParcelas());
+        EmprestimoMetodo.calcular(1000, 5);
 
     }
 }
