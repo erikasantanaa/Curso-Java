@@ -10,10 +10,10 @@ import java.util.Scanner;
 
 public class TurnoAula {
     public static void main(String[] args) {
-        Scanner leitor = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
 
-        System.out.println("Digite seu turno: M para Matutino, V para Vespertino ou N para Noturno: ");
-        char turno = leitor.next().toUpperCase().charAt(0);
+        // System.out.println("Digite seu turno: M para Matutino, V para Vespertino ou N para Noturno: ");
+        char turno = scan.next().toUpperCase().charAt(0);
 
         if(turno == 'M') {
             System.out.println("Bom dia!");
