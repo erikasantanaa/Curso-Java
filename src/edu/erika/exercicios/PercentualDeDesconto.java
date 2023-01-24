@@ -16,7 +16,6 @@ public class PercentualDeDesconto {
         int S = input.nextInt();  
         
     //  Retorne o percentual de desconto que foi aplicado no produto
-
     
     }
 }

@@ -20,6 +20,5 @@ public class ClientesDoBanco {
  //Implemente uma condição que simule uma fila bancaria, 
  //gerando o nome a posição do cliente na fila:
         
-        
     }
 }
