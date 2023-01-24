@@ -17,10 +17,8 @@ public class ClientesDoBanco {
         String[] nomesFila = new String[3]; 
         Scanner nome = new Scanner(System.in);
 
-
-        System.out.println();
-
- //Implemente uma condição que simule uma fila bancaria, gerando o nome a posição do cliente na fila:
+ //Implemente uma condição que simule uma fila bancaria, 
+ //gerando o nome a posição do cliente na fila:
         
         
     }
